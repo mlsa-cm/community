@@ -33,19 +33,19 @@ The following behaviors are considered harassment and are unacceptable within ou
 
  * Violence, threats of violence or violent language directed against another person.
  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
+ * Posting or displaying sexually explicit or violent material in any of our social and professional platforms.
+ * Posting or threatening to post other member's personally identifying information.
  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
+ * Inappropriate or unapproved photography or recording.
  * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
+ * Unwelcome sexual attention. This includes, sexually oriented comments or jokes; inappropriate touching, groping, and un-welcomed sexual advances.
+ * Deliberate intimidation of other members, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
 
 ## 5. Weapons Policy
 
-No weapons will be allowed at MLSA CM events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons will be allowed at MLSA CM events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to artillery, guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -57,15 +57,17 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. elroykanye@outlook.com.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. 
 
-[Reporting guidelines](https://github.com/mlsa-cm)
+Community Organiser - Elroy Kanye ([elroykanye@outlook.com](mailto:elroykanye@outlook.com.))
+
+<!-- [Reporting guidelines](https://github.com/mlsa-cm) -->
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify mlsa-cm with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://github.com/mlsa-cm)
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the organiser of mlsa-cm or any the admins or team responsible for enforcing discipline with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://github.com/mlsa-cm)
 
 
 
